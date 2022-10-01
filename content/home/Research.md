@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Section title
-title: Publications
+title: Research
 
 # Section subtitle
 subtitle: 
@@ -25,5 +25,5 @@ design:
     text_color_light: False
 ---
 
-Check Yair's latest publications [here](https://scholar.google.de/citations?user=TZ9_wnEAAAAJ&hl=en).
+This section is under construction
 

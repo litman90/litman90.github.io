@@ -26,7 +26,7 @@ interests:
   - Quantum Dynamics
   - Linear and Non-linear Vibrational Spectroscopy
   - Molecular Dynamics
-  - Machine Learning applied to Physics/Chemistry
+  - Aqueous Systems and Hybrid Organic/Inorganic interfaces
 
 # Education to show in About widget
 education:
@@ -60,14 +60,6 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'yl899@cam.ac.uk'
-
-
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
@@ -75,15 +67,14 @@ email: 'yl899@cam.ac.uk'
 #   icon_pack: ai
 #   link: uploads/resume.pdf
 
-###  Uncomment the following line and move it below 
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ''
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
-
-
-Yair Litman is a theoretical chemist at the Yusuf Hamied Department of Chemistry. His research focuses on understanding how molecules move at the atomic scale. Unlike the math required to model the movement of
-clouds or to describe apples falling from trees, the description of nuclear motion in molecules demands a more complex treatment prescribed by the theory of quantum mechanics. For this goal, Yair performs
-numerical simulations with existing and newly developed algorithms, sometimes enhanced by machine learning, trying to understand and predict the non-intuitive consequences emerging from the quantum nature of the nuclei.
-
-More specifically, his research orbits around the theoretical and methodological development of adiabatic and non-adiabatic rate theories and diverse types of spectroscopies (IR, Raman, tip-enhanced Raman, sum-frequency generation, 2D-IR, and others). Yair's interests include aqueous systems, metals, and hybrid organic/inorganic materials.
+-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
  
-  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
