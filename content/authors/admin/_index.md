@@ -85,5 +85,5 @@ numerical simulations with existing and newly developed algorithms, sometimes en
 
 More specifically, his research orbits around the theoretical and methodological development of adiabatic and non-adiabatic rate theories and diverse types of spectroscopies (IR, Raman, tip-enhanced Raman, sum-frequency generation, 2D-IR, and others). Yair's interests include aqueous systems, metals, and hybrid organic/inorganic materials.
  
-  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
