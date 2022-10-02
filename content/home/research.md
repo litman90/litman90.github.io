@@ -25,5 +25,5 @@ design:
     text_color_light: False
 ---
 
-This section is under construction
+This section is under construction.
 
