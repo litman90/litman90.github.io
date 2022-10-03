@@ -80,7 +80,7 @@ email: 'yl899@cam.ac.uk'
 
 
 Yair Litman is a theoretical chemist at the Yusuf Hamied Department of Chemistry. His research focuses on understanding how molecules move at the atomic scale. Unlike the math required to model the movement of
-clouds or to describe apples falling from trees, the description of nuclear motion in molecules demands a more complex treatment prescribed by the theory of quantum mechanics. For this goal, Yair performs
+clouds or to describe apples falling from trees, the description of nuclear motion in molecules demands a more complex treatment prescribed by the theory of quantum mechanics. For this purpose, Yair performs
 numerical simulations with existing and newly developed algorithms, sometimes enhanced by machine learning, trying to understand and predict the non-intuitive consequences emerging from the quantum nature of the nuclei.
 
 More specifically, his research orbits around the theoretical and methodological development of adiabatic and non-adiabatic rate theories and diverse types of spectroscopies (IR, Raman, tip-enhanced Raman, sum-frequency generation, 2D-IR, and others). Yair's interests include aqueous systems, metals, and hybrid organic/inorganic materials.
