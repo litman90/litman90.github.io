@@ -1,29 +1,41 @@
 ---
-# An instance of the Blank widget.
+# An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+widget: pages
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 90
 
-# Section title
-title: Publications
+title: Recent Publications
+subtitle: ''
 
-# Section subtitle
-subtitle: 
-
-# Section design
+content:
+  # Filter on criteria
+  filters:
+    folders:
+      - publication
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 5
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
 design:
-  # Use a 1-column layout
-  columns: "1"
-  # Use a dark navy background with light text.
-  background:
-    color: 'white'
-    text_color_light: False
+  # Choose a view for the listings:
+  view: citation
+  columns: '2'
+
 ---
 
-Check Yair's latest publications [here](https://scholar.google.de/citations?user=TZ9_wnEAAAAJ&hl=en).
+Check Yair's  full list of publications [here](https://scholar.google.de/citations?user=TZ9_wnEAAAAJ&hl=en).
 
