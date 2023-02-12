@@ -9,7 +9,7 @@ date: '2022-02-27T00:00:00Z'
 #external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: NaOH (aq) - air interface 
   focal_point: Smart
 
 #links:
