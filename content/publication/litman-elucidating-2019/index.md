@@ -6,7 +6,7 @@ title: Elucidating the Nuclear Quantum Dynamics of Intramolecular Double Hydroge
 subtitle: ''
 summary: ''
 authors:
-- Yair Litman
+- admin 
 - Jeremy O. Richardson
 - Takashi Kumagai
 - Mariana Rossi
@@ -30,7 +30,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: 
+- quantum_dynamics
+- vibrational_spectroscopy
+
 publishDate: '2023-02-11T13:27:23.797202Z'
 publication_types:
 - '2'
