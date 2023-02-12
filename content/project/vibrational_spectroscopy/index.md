@@ -1,5 +1,5 @@
 ---
-title: Vibrational Spectroscopy
+title: Non-linear Vibrational Spectroscopy
 summary: 'Using light to reveal the mysteries of molecular motion ' 
 #tags:
 #  - ters
