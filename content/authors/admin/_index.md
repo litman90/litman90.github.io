@@ -86,7 +86,7 @@ email: 'yl899@cam.ac.uk'
 
 ---
 Yair Litman is a dedicated theoretical chemist at the Yusuf Hamied Department of Chemistry 
-at University of Cambridge with a passion for solving complex problems at the interface of chemistry, physics, and materials science. 
+(University of Cambridge) with a passion for solving complex problems at the interface of chemistry, physics, and materials science. 
 {style="text-align: justify;"}
 
 Unlike the math required to model the movement of clouds or to describe apples falling from trees, the description of nuclear motion in molecules demands a more complex treatment prescribed by the theory of quantum mechanics. For this purpose, Yair performs numerical simulations with existing and newly developed algorithms, sometimes enhanced by machine learning, trying to understand and predict the non-intuitive consequences emerging from the quantum nature of the nuclei.
