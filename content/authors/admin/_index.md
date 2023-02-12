@@ -76,14 +76,26 @@ email: 'yl899@cam.ac.uk'
 #   link: uploads/resume.pdf
 
 ###  Uncomment the following line and move it below 
----
 
+#Yair Litman is a brilliant theoretical chemist leading groundbreaking research at the Yusuf Hamied Department of Chemistry. He uses cutting-edge numerical simulations and advanced machine learning techniques to explore the complex and fascinating world of atomic-scale molecular movement. While the math involved in describing everyday phenomena is relatively straightforward, Yair's work delves into the intricate and often counterintuitive realm of quantum mechanics, requiring an entirely new level of complexity. Through his research, he's developing revolutionary adiabatic and non-adiabatic rate theories, as well as exploring diverse types of spectroscopies that have the potential to transform our understanding of aqueous systems, metals, and hybrid organic/inorganic materials.
 
-Yair Litman is a theoretical chemist at the Yusuf Hamied Department of Chemistry. His research focuses on understanding how molecules move at the atomic scale. Unlike the math required to model the movement of
-clouds or to describe apples falling from trees, the description of nuclear motion in molecules demands a more complex treatment prescribed by the theory of quantum mechanics. For this purpose, Yair performs
-numerical simulations with existing and newly developed algorithms, sometimes enhanced by machine learning, trying to understand and predict the non-intuitive consequences emerging from the quantum nature of the nuclei.
+#Yair Litman is a theoretical chemist at the Yusuf Hamied Department of Chemistry. His research focuses on understanding how molecules move at the atomic scale. Unlike the math required to model the movement of clouds or to describe apples falling from trees, the description of nuclear motion in molecules demands a more complex treatment prescribed by the theory of quantum mechanics. For this purpose, Yair performs numerical simulations with existing and newly developed algorithms, sometimes enhanced by machine learning, trying to understand and predict the non-intuitive consequences emerging from the quantum nature of the nuclei.
 
-More specifically, his research orbits around the theoretical and methodological development of adiabatic and non-adiabatic rate theories and diverse types of spectroscopies (IR, Raman, tip-enhanced Raman, sum-frequency generation, 2D-IR, and others). Yair's interests include aqueous systems, metals, and hybrid organic/inorganic materials.
+#More specifically, his research orbits around the theoretical and methodological development of adiabatic and non-adiabatic rate theories and diverse types of spectroscopies (IR, Raman, tip-enhanced Raman, sum-frequency generation, 2D-IR, and others). Yair's interests include aqueous systems, metals, and hybrid organic/inorganic materials.
  
- {{< icon name="download" pack="fas" >}} Want to know more? Check out Yair's {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+---
+Yair Litman is a dedicated theoretical chemist at the Yusuf Hamied Department of Chemistry 
+with a passion for solving complex problems at the interface of chemistry, physics, and materials science. 
+{style="text-align: justify;"}
+
+Unlike the math required to model the movement of clouds or to describe apples falling from trees, the description of nuclear motion in molecules demands a more complex treatment prescribed by the theory of quantum mechanics. For this purpose, Yair performs numerical simulations with existing and newly developed algorithms, sometimes enhanced by machine learning, trying to understand and predict the non-intuitive consequences emerging from the quantum nature of the nuclei.
+{style="text-align: justify;"}
+
+His research orbits around the theoretical and methodological development of adiabatic and non-adiabatic quantum rate theories and diverse types of spectroscopies (IR, Raman, tip-enhanced Raman, sum-frequency
+generation, 2D-IR, and others). Yair's primary system of interests are organic/inorganic  and aqueous intefaces.
+{style="text-align: justify;"}
+
+{{< icon name="download" pack="fas" >}} Want to know more? Check out Yair's {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+
 
