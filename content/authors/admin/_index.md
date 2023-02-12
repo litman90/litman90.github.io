@@ -93,7 +93,7 @@ Unlike the math required to model the movement of clouds or to describe apples f
 {style="text-align: justify;"}
 
 His research orbits around the theoretical and methodological development of adiabatic and non-adiabatic quantum rate theories and diverse types of spectroscopies (IR, Raman, tip-enhanced Raman, sum-frequency
-generation, 2D-IR, and others). Yair's primary system of interests are organic/inorganic  and aqueous intefaces.
+generation, 2D-IR, and others). Yair's primary systems of interest are organic/inorganic  and aqueous intefaces.
 {style="text-align: justify;"}
 
 {{< icon name="download" pack="fas" >}} Want to know more? Check out Yair's {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
