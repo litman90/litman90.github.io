@@ -7,11 +7,11 @@ subtitle: ''
 summary: ''
 authors:
 - admin
-- E. S. Pós
-- C. L. Box
-- R. Martinazzo
-- R. J. Maurer
-- M. Rossi
+- Eszter S. Pós
+- Connor L. Box
+- Rocco Martinazzo
+- Reinhard J. Maurer
+- Mariana Rossi
 tags: []
 categories: []
 date: '2022-05-01'
