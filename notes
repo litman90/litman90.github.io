@@ -1,4 +1,8 @@
   hugo server 
+
   to add a new cite
   1) get ref.bib and save in this folder
   2) type:  academic import --bibtex ref.bib --overwrite
+
+  update static CV
+   modify /home/yairlitman/Yair/gitlab/website/static/uploads/CV.pdf

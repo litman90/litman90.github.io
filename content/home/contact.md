@@ -14,7 +14,7 @@ subtitle:
 content:
   # Contact details (edit or remove options as required)
   email: yl899@cam.ac.uk
-  phone: +44(0) 1223 336340
+  phone: +44(0) 1223 763874
   address:
     street: Lensfield Road
     city: Cambridge

@@ -39,9 +39,11 @@ publishDate: '2023-02-11T13:38:52.463018Z'
 publication_types:
 - '0'
 abstract: Our current understanding of the structure and dynamics of aqueous interfaces at the molecular level has grown substantially in the last few decades due to the continuous development of surface-specific spectroscopies, such as vibrational sum-frequency generation (VSFG). Similarly to what happens in other spectroscopies, to extract all of the information encoded in the VSFG spectra we must turn to atomistic simulations. The latter are conventionally based either on empirical force field models, which cannot describe bond breaking and formation or systems with a complex electronic structure, or on ab initio calculations which are difficult to statistically converge due to their computational cost. These limitations ultimately hamper our understanding of aqueous interfaces. In this work, we overcome these constraints by combining two machine learning techniques, namely high-dimensional neural network interatomic potentials and symmetry-adapted Gaussian process regression, to simulate the SFG spectra of the water/air interface with ab initio accuracy. Leveraging a data-driven local decomposition of atomic environments, we develop a simple scheme that allows us to obtain VSFG spectra in agreement with current experiments. Moreover, we identify the main sources of inaccuracy and establish a clear pathway towards the modelling of surface-sensitive spectroscopy of complex interfaces. 
-publication: '*arXiv*'
-doi: 10.48550/arxiv.2305.09321 
+publication: '*J. Phys. Chem. Lett.*'
+doi: 10.1021/acs.jpclett.3c01989
 links:
 - name: URL
-  url: https://arxiv.org/abs/2305.09321
+  url: https://doi.org/10.1021/acs.jpclett.3c01989
 ---
+
+
