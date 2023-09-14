@@ -96,6 +96,6 @@ His research orbits around the theoretical and methodological development of adi
 generation, 2D-IR, and others). Yair's primary systems of interest are organic/inorganic  and aqueous interfaces.
 {style="text-align: justify;"}
 
-{{< icon name="download" pack="fas" >}} Want to know more? Check out Yair's {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Want to know more? Check out Yair's {{< staticref "uploads/CV_Sep23.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 
