@@ -85,7 +85,7 @@ email: 'yl899@cam.ac.uk'
  
 
 ---
-Yair Litman is a dedicated theoretical chemist at the Yusuf Hamied Department of Chemistry 
+Yair Litman is a dedicated theoretical chemist working at the Yusuf Hamied Department of Chemistry 
 (University of Cambridge) with a passion for solving complex problems at the interface of chemistry, physics, and materials science. 
 {style="text-align: justify;"}
 
