@@ -4,12 +4,11 @@ project:
 
 
 website:
-  title: "today"
+  title: "Yair Litman"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
 
 format:
   html:
